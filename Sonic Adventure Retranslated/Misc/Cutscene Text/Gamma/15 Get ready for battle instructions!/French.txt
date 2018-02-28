@@ -1,0 +1,4 @@
+Ahem, 1, 2, 3...
+Gamma!\nSois prêt pour les ordres de bataille!
+Trouve le Jet Booster au \ndépôt de munitions, 
+et monte au pont.\nLe dépôt n'est pas fermé à clef.
