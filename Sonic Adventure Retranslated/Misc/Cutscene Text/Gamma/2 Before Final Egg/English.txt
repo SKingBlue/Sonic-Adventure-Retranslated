@@ -1,0 +1,4 @@
+Beyond this door is a \ntraining ground for you!
+The elder robot, \nE-101 Beta, has already passed it.
+Now go, Gamma!
+I don't have the same expectations \nfrom you as I do Beta, so do your best.

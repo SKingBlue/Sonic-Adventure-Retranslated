@@ -1,0 +1,4 @@
+¿Froggy?
+¡Uh oh!
+NO, ¡espera ahí!\n¡Vuelve! ¡Por favor!
+¡Devuélveme a mi amigo!\n¡Te lo ruego, por favor!

@@ -1,0 +1,4 @@
+Tontest, 1, 2, 3...
+Gamma! Mach Dich auf\nKampfanweisungen gefaßt!
+Hol' den Jet Booster aus \ndem Waffenlager, 
+und geh' auf's Deck.\nDas Waffenlager ist offen.
